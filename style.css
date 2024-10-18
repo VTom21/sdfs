@@ -1,4 +1,6 @@
-
+:root{
+  --gray:#bdc3c7;
+}
 /* Global Styles */
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
